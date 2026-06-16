@@ -6,6 +6,7 @@ Welcome to my repository tracking my core problem-solving journey in C++. Here, 
 
 *   **Array:** Core array logic, multi-pointer approaches, and search/sort variants.
 *   **Hashing:** Frequency counting, element mapping, and optimization challenges.
+*   **Basics:** Foundational logic,pattern printing, and basic C++ syntax experiments.
 
 ---
 
